@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+  <body>
+    <font color = "white" face = "Comic Sans MS">
+    <h1>Sayema's Advanced Game of Life</h1> <!-- #1 Add your name -->
+    <h2>User Interactivity:</h2>
+    <h3>Press the mouse to pause and play the game, ENTER to speed up the spawning of following generations (spawning will occur faster with each press), and SHIFT to rerandomize the cells and play again!</h3>
+    </font>
+  </body>
+</html>
